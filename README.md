@@ -45,6 +45,9 @@ Some side projects:
 - [yt-download](https://github.com/simon-kramer/yt-download)  
   A small CLI tool for downloading YouTube videos in different resolutions.
 
+- [Defrost](https://github.com/simon-kramer/defrost)  
+  A React Router Data Inspector to ease the use of turbo-stream responses (json formatting & tree view) for Chrome & Firefox.
+
 ## How I Think About Software
 
 I care about building things thoughtfully.
